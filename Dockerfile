@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER All Is One Media
+LABEL maintainer="All Is One Media"
 
 ENV PYTHONUNBUFFERED 1
 
